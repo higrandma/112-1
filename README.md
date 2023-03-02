@@ -5,7 +5,7 @@
 
 ##  課程筆記區
 - [week1 classpractice]
-- [week1 classpractice]:https://github.com/higrandma/112-1/blob/main/0302%20class%20practice.ipynb
+ [week1 classpractice]:https://github.com/higrandma/112-1/blob/main/0302%20class%20practice.ipynb
 
 
 ## 作業連結區
