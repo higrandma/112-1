@@ -6,6 +6,8 @@
 ##  課程筆記區
 - [week1 classpractice]
 - [week1 classpractice]:https://github.com/higrandma/112-1/tree/main/0302%20class2practice
+- [ HW1 ]:.ipynb_checkpoints/HW 1-checkpoint.ipynb
+- [ HW1 ]:
 
 
 ## 作業連結區
