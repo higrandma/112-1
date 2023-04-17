@@ -11,6 +11,6 @@
 ## 作業連結區
 - [ HW1 ]
 - 
-- [ HW1 ]:https://github.com/higrandma/112-1/blob/main/HW%201.ipynb
+- [ HW1 ]:https://github.com/higrandma/112-1/blob/main/作業1.ipynb
 
 ## 專題連結區
