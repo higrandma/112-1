@@ -14,12 +14,16 @@
 - [ HW3 ]
 - [ HW4 GitHub]
 - [ HW4 Medium]
+- [ HW5 GitHub]
+- [ HW5 Medium]
 - [ HW1 ]:https://github.com/higrandma/112-1/blob/main/作業1.ipynb 
 - [ HW1參考資料 ]:https://github.com/higrandma/112-1/blob/main/111年3月外籍結婚狀況.csv
 - [ HW2 ]:http://localhost:8888/notebooks/Desktop/大二下/程式設計/112-1/作業2.ipynb
 - [ HW3 ]:http://localhost:8888/notebooks/Desktop/大二下/程式設計/112-1/作業3.ipynb
 - [ HW4 GitHub]:https://github.com/higrandma/112-1/blob/main/作業4.ipynb
 - [ HW4 Medium]:https://medium.com/@41083055i/科技-關鍵字大解密-49bfdeeead9f
+- [ HW5 GitHub]:https://github.com/higrandma/112-1/blob/main/作業5.ipynb 
+- [ HW5 Medium]:https://medium.com/@41083055i/土耳其大選-怎麼了-ce943976d235
 
 
 ## 專題連結區
