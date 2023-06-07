@@ -27,3 +27,7 @@
 
 
 ## 專題連結區
+- [ Sloth_News 1]
+- [ Sloth News 1]:https://github.com/higrandma/112-1/blob/main/期末專題＿科技議題.ipynb
+- [ Sloth_News 2]
+- [ Sloth News 2]:https://github.com/higrandma/112-1/blob/main/期末專題＿人物.ipynb
